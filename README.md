@@ -1,10 +1,10 @@
-# git_basics
+﻿# git_basics
 * Basics of git
 
 ----
 
-* git config user.name “First Last" 
-* git config --global user.email "email@example.com"
+* git config user.name “Berkay Zühre" 
+* git config --global user.email "zuhreberkay@gmail.com"
 
 -----
 
@@ -26,3 +26,5 @@
 * git push origin master
 
 ----
+
+aşasın kodlamak, en de azıım
